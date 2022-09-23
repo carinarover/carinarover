@@ -1,10 +1,5 @@
 ### Hi! I'm Carina Rover 
 
-- 🔭 I’m currently working on Data Science.
-- 🌱 I’m currently learning Python, SQL, statistic and machine learning.
-- 😄 Pronouns: she/her
-- ⚡ Fun fact: I'm an agronomist and passionate about agriculture.
-
 <div align="center">
   <a href="https://github.com/carinarover">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=carinarover&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
